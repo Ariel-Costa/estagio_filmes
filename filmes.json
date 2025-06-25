@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "titulo": "Berserk: A Era de Ouro - Ato 1",
+        "ano": 2012,
+        "genero": "fantasia"
+    },
+    {
+        "id": 2,
+        "titulo": "Midsommar - O Mal Não Espera a Noite",
+        "ano": 2019,
+        "genero": "terror e suspense"
+    },
+    {
+        "id": 3,
+        "titulo": "A Bruxa de Blair",
+        "ano": 1999,
+        "genero": "terror"
+    },
+    {
+        "id": 4,
+        "titulo": "Tusk",
+        "ano": 2014,
+        "genero": "terror/comédia"
+    },
+    {
+        "id": 5,
+        "titulo": "Eu, Christiane F. - 13 Anos, Drogada e Prostituída",
+        "ano": 1981,
+        "genero": "Drama/independente"
+    },
+    {
+        "id": 6,
+        "titulo": "A Bruxa",
+        "ano": 2015,
+        "genero": "terror/misterio"
+    }
+]
